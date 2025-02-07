@@ -1,30 +1,34 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# SATRIA (Sistem Monitoring Kinerja)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Tentang SATRIA
+SATRIA adalah sebuah sistem monitoring kinerja yang dikembangkan untuk Pengadilan Negeri Sungguminasa. Website ini bertujuan untuk:
+- Melihat persentase pegawai dalam menyelesaikan perkara.
+- Menyediakan penyimpanan data perkara secara terstruktur.
+- Memudahkan ekspor dan impor data dalam format Excel dengan tampilan yang menarik.
 
-## Tim Optimes
+## Teknologi yang Digunakan
+- **Framework**: Laravel
+- **UI Framework**: Bootstrap
 
-1. Mochammad Ihza Rizky Karim, 1204190054
-2. Juan Enrico Chandra, 1204202233
-3. Dhiki Sidik Sayoga, 1203210004
-4. Dimas Ekariyan Saputro, 1203210077
+## Tim Pengembang
+SATRIA dikembangkan oleh tim yang terdiri dari tiga orang:
+1. **Muhammad Arham Satriawan** - UI/UX Designer
+2. **Andi Izar Maulana** - Backend Developer
+3. **Andi Muhammad Hasyim Al Hamdi** - Frontend Developer
 
-## Metlog: Aplikasi Web Sistem Informasi Manajemen Kinerja Pegawai
+Kami adalah siswa magang dari **SMK Telkom Makassar** yang menjalani magang selama **4 bulan**. Selama magang, kami mengerjakan **2 proyek**, dan SATRIA adalah proyek kedua yang dikerjakan dalam waktu **2 bulan**.
 
-Metlog adalah aplikasi berbasis web yang berfungsi untuk memanage Kinerja Pegawai dari suatu Instansi / Organisasi. WebApp ini menggunakan Laravel, Bootstrap dan lainnya untuk bahan membuatnya.
+## Cara Penggunaan
+Penggunaan SATRIA mengikuti prinsip dasar sistem CRUD (Create, Read, Update, Delete) seperti pada aplikasi berbasis web pada umumnya. Fitur yang disediakan mencakup:
+- Monitoring kinerja pegawai dalam penyelesaian perkara.
+- Penyimpanan dan pengelolaan data perkara.
+- Ekspor dan impor data menggunakan Excel dengan tampilan yang stylish.
 
-## Roles
+## Akun Demo
+Untuk sementara, kami menyediakan akun demo yang dapat digunakan:
+- **Username**: admin
+- **Password**: admin123
 
-1. Ihza : PM & Fullstack Developer
-2. Juan : UI/UX & Frontend Developer
-3. Dimas : Analyst & Fullstack Developer
-4. Dhiki : Analyst & Fullstack Developer
+## Lisensi
+Proyek ini dikembangkan untuk keperluan internal Pengadilan Negeri Sungguminasa dan dapat dikembangkan lebih lanjut sesuai kebutuhan.
 
-## Saluran Komunikasi Tim
-
-**Github Discussion:** [github.com/ihzarizkyk/optimes/discussions](https://github.com/ihzarizkyk/optimes/discussions)
